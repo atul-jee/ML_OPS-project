@@ -32,7 +32,7 @@ mlops-spam/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/mlops-spam.git
+    git clone https://github.com/atul-jee/ML_OPS-project
     cd mlops-spam
     ```
 
