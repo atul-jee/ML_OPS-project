@@ -1,0 +1,31 @@
+2025-08-07 16:15:29,404 - data_ingestion - ERROR - File not found: params.yaml
+2025-08-07 16:15:29,404 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-08-07 16:16:10,458 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-07 16:16:11,857 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-08-07 16:16:11,891 - data_ingestion - DEBUG - Data preprocessing completed
+2025-08-07 16:16:11,936 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-08-08 18:59:38,737 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 18:59:38,817 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-08-08 18:59:38,817 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-08-08 19:00:25,769 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 19:00:25,912 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-08-08 19:00:25,920 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-08-08 19:00:45,150 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 19:00:45,220 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-08-08 19:00:45,225 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-08-08 19:02:06,759 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 19:02:08,287 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-08-08 19:02:08,308 - data_ingestion - DEBUG - Data preprocessing completed
+2025-08-08 19:02:08,339 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-08-08 19:02:25,025 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 19:02:26,265 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-08-08 19:02:26,267 - data_ingestion - DEBUG - Data preprocessing completed
+2025-08-08 19:02:26,306 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-08-08 19:03:02,669 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 19:03:03,712 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-08-08 19:03:03,712 - data_ingestion - DEBUG - Data preprocessing completed
+2025-08-08 19:03:03,755 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-08-08 19:13:30,955 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-08-08 19:13:31,964 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-08-08 19:13:31,982 - data_ingestion - DEBUG - Data preprocessing completed
+2025-08-08 19:13:31,992 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
