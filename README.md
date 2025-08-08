@@ -64,3 +64,15 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT
+## Jupyter Notebook Overview
+
+The `mynotebook.ipynb` notebook demonstrates a full machine learning workflow for spam detection using NLP techniques. The steps include:
+
+- **Data Loading & Cleaning:** Loads the SMS spam dataset, removes unnecessary columns, renames columns, encodes target labels, and removes duplicates.
+- **Feature Engineering:** Applies text preprocessing (lowercasing, tokenization, stopword removal, stemming) to prepare messages for modeling.
+- **Vectorization:** Converts processed text into numerical features using TF-IDF vectorization.
+- **Train-Test Split:** Splits the data into training and testing sets.
+- **Model Training:** Trains multiple classifiers (SVM, KNN, Naive Bayes, Decision Tree, Logistic Regression, Random Forest, AdaBoost, Bagging, Extra Trees, Gradient Boosting, XGBoost).
+- **Model Evaluation:** Evaluates each model’s accuracy and precision on the test set and prints the results for comparison.
+
+This notebook provides a clear, reproducible pipeline for comparing various machine learning models on
